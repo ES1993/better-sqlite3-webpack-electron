@@ -1,5 +1,5 @@
 {
-  "name": "better-sqlite3",
+  "name": "better-sqlite3-webpack-electron",
   "version": "8.4.0",
   "description": "The fastest and simplest library for SQLite3 in Node.js.",
   "homepage": "http://github.com/WiseLibs/better-sqlite3",
